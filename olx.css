@@ -1,0 +1,149 @@
+.top{
+display:grid;
+grid-template-columns:20% 20% 20% 20%;
+justify-content:space-around;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+a {
+text-decoration: none;
+}
+form.example{
+font-family: Arial;
+}
+form.example{
+box-sizing: border-box;
+}     
+form.example input[type=text] {
+padding: 10px;
+font-size: 17px;
+border: 1px solid white;
+float: left;
+width: 80%;
+background: #f1f1f1;
+}
+      
+form.example button {
+float: left;
+width: 20%;
+padding: 10px;
+background:color: white;
+font-size: 17px;
+border: 1px solid white;
+border-left: none;
+cursor: pointer;
+}
+      
+form.example button:hover {
+background: #f3f4f5;
+}
+      
+form.example::after {
+content: "";
+clear: both;
+display: table;
+}
+a {
+text-decoration: none;
+}
+.center{
+display:grid;
+grid-template-columns:20% 20% 20% 20% 10% 10%;
+justify-content:space-around;
+text-decoration: none;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.img{
+display:grid;
+grid-template-columns:20% 20% 20% 20% ;
+justify-content:space-around;
+gap: 50px 50px;
+}
+.car{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.gaadi{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.hy{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.ht{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.bike{
+display:grid;
+grid-template-columns:20% 20% 20% 20% ;
+justify-content:space-around;
+gap: 50px 50px;
+}
+.bi{
+row-gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.fz{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.mt{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.sp{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.scooty{
+display:grid;
+grid-template-columns:20% 20% 20% 20% ;
+justify-content:space-around;
+gap: 50px 50px;
+}
+.ac{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.nt{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.sz{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.ac{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.phones{
+display:grid;
+grid-template-columns:20% 20% 20% 20% ;
+justify-content:space-around;
+gap: 50px 50px;
+}
+.ag{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.vivo{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.red{
+gap: 50px 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.ii{
+gap: 50px 5opx;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.address{
+display:grid;
+grid-template-columns:20% 20% 20% 20% 20%;
+justify-content:space-around;box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px
+}
+
+

@@ -1,0 +1,83 @@
+.top{
+    display:grid;
+    grid-template-columns:20% 20% 20% 20%;
+    justify-content:space-around;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+    a {
+    text-decoration: none;
+    }
+    form.example{
+    font-family: Arial;
+    }
+    form.example{
+    box-sizing: border-box;
+    }     
+    form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid white;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+    }
+          
+    form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background:color: white;
+    font-size: 17px;
+    border: 1px solid white;
+    border-left: none;
+    cursor: pointer;
+    }
+          
+    form.example button:hover {
+    background: #f3f4f5;
+    }
+          
+    form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+    a {
+    text-decoration: none;
+    }
+    .center{
+    display:grid;
+    grid-template-columns:20% 20% 20% 20% 10% 10%;
+    justify-content:space-around;
+    text-decoration: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+.mobile{
+display:grid;
+grid-template-columns:30% 30% 30%;
+justify-content:space-around;
+}
+.redmi{
+box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+} 
+.realme{
+box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+.oneplus{
+box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+.apple{
+box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+.vivo{
+box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+.moto{
+box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+.address{
+    display:grid;
+    grid-template-columns:20% 20% 20% 20% 20%;
+    justify-content:space-around;box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px
+    }
+    
